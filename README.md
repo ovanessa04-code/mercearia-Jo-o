@@ -1,2 +1,2 @@
-# mercearia-Jo-o
+# mercearia-Joao
 sistema da mercearia do João
